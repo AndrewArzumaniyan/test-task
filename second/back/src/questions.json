@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "question": "Что такое React?",
+    "options": [
+      "JavaScript библиотека",
+      "JavaScript фреймворк",
+      "CSS препроцессор"
+    ],
+    "correctOption": 0,
+    "correctCount": 4,
+    "totalCount": 7
+  },
+  {
+    "id": 1,
+    "question": "Какой хук используется для работы с состоянием в функциональных компонентах?",
+    "options": [
+      "useState",
+      "useEffect",
+      "useContext"
+    ],
+    "correctOption": 0,
+    "correctCount": 2,
+    "totalCount": 5
+  },
+  {
+    "id": 2,
+    "question": "Что такое TypeScript?",
+    "options": [
+      "Суперсет JavaScript",
+      "Стандартный JavaScript",
+      "Библиотека для работы с HTTP"
+    ],
+    "correctOption": 0,
+    "correctCount": 1,
+    "totalCount": 3
+  }
+]
